@@ -1,3 +1,7 @@
 It is a header.
 
+
 Addition from master.
+AND
+Addition from first branch.
+
